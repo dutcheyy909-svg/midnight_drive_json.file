@@ -10,8 +10,10 @@
       "Melodic House",
       "Progressive House"
     ],
-    "language": "Instrumental / to be confirmed",
-    "explicit_content": "No explicit content indicated"
+    "language": "Instrumental",
+    "language_status": "To be confirmed",
+    "explicit_content": false,
+    "explicit_content_note": "No explicit content indicated"
   },
   "rights": {
     "writer_composer": "Duncan",
@@ -124,12 +126,18 @@
     ]
   },
   "distribution": {
-    "distributor_name": "To be confirmed",
-    "distributor_code": "To be assigned",
-    "catalogue_number": "To be assigned",
-    "isrc": "To be assigned",
-    "upc_ean": "To be assigned",
-    "release_date": "To be confirmed",
+    "distributor_name": null,
+    "distributor_name_status": "To be confirmed",
+    "distributor_code": null,
+    "distributor_code_status": "To be assigned",
+    "catalogue_number": null,
+    "catalogue_number_status": "To be assigned",
+    "isrc": null,
+    "isrc_status": "To be assigned",
+    "upc_ean": null,
+    "upc_ean_status": "To be assigned",
+    "release_date": null,
+    "release_date_status": "To be confirmed",
     "territory": "Worldwide"
   },
   "file_naming": {
