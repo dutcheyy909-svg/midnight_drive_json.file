@@ -4,14 +4,16 @@
     "artist": "DUTCHEYY",
     "bpm": 128,
     "key": "G minor",
-    "duration": "To be confirmed",
+    "duration": null,
+    "duration_status": "To be confirmed",
     "genre": "Electronic",
     "subgenres": [
       "Melodic House",
       "Progressive House"
     ],
-    "language": "Instrumental",
+    "language": null,
     "language_status": "To be confirmed",
+    "language_note": "Instrumental / to be confirmed",
     "explicit_content": false,
     "explicit_content_note": "No explicit content indicated"
   },
